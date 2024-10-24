@@ -33,6 +33,7 @@ To run the Currency Converter, use the following steps:
 
 1. Open a terminal or command prompt.
 2. Navigate to the root directory of the project.
-3. Run the following command to compile the Java classes: ```javac CurrencyConverter.java```
-4. Run the application: ```java CurrencyConverter```
+3. Run the following command to compile the Java classes: ```mvn clean compile```
+4. Run the application: ```exec:java```
 5. Follow the on-screen instructions to perform currency conversions.
+Note: If you have taken API token for free, you can only convert currency from EUR to other currencies. The documentation typically lists supported currencies and any restrictions based on different subscription levels: https://exchangeratesapi.io/documentation/
