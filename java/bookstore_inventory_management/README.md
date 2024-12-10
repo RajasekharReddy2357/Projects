@@ -1,10 +1,10 @@
-# Online Bookstore System
+# Bookstore Inventory Management
 
-The Online Bookstore System is a simple Java application that simulates an online bookstore using object-oriented programming. It allows users to purchase books, leave reviews, control inventory, and process payments. It only uses the Java standard library, so no external dependencies are required.
+The Bookstore Inventory Management is a simple Java application that simulates an online bookstore using object-oriented programming. It allows users to purchase books, leave reviews, control inventory, and process payments. It only uses the Java standard library, so no external dependencies are required.
 
 ## Table of Contents
 
-- [Online Bookstore System](#online-bookstore-system)
+- [Bookstore Inventory Management](#bookstore_inventory_management)
   - [Table of Contents](#table-of-contents)
   - [Features](#features)
   - [Getting Started](#getting-started)
@@ -22,12 +22,12 @@ The Online Bookstore System is a simple Java application that simulates an onlin
 
 ## Getting Started
 
-To run the Online Bookstore System, you need to have Java installed on your machine. Follow these steps to get started:
+To run the Bookstore Inventory Management, you need to have Java installed on your machine. Follow these steps to get started:
 
 1. Navigate to the project directory:
 
 ```bash
-cd online-bookstore-system/src/bookstore
+cd bookstore_inventory_management/src/bookstore
 ```
 
 2. Compile the Java source code:
